@@ -1,0 +1,33 @@
+{
+  "lat": 51.5073219,
+  "lon": -0.1276474,
+  "timezone": "Europe/London",
+  "timezone_offset": 3600,
+  "current": {
+    "dt": 1628076473,
+    "sunrise": 1628059837,
+    "sunset": 1628109979,
+    "temp": 28.61,
+    "feels_like": 29.21,
+    "pressure": 1011,
+    "humidity": 70,
+    "dew_point": 22.67,
+    "uvi": 0.86,
+    "clouds": 75,
+    "visibility": 10000,
+    "wind_speed": 2.68,
+    "wind_deg": 0,
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+      }
+    ],
+    "rain": {
+      "1h": 0.25
+    }
+  }
+
+}
